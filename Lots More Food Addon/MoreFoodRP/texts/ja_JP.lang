@@ -245,13 +245,13 @@ item.strawberry.name=イチゴ (#morefood)
 item.tomato.name=トマト (#morefood)
 
 # Icecream
-item.ice_bowl.name=Ice Cream Bowl (#morefood)
-item.icecream_banana.name=Banana Ice Cream (#morefood)
-item.icecream_chocolate.name=Chocolate Ice Cream (#morefood)
-item.icecream_cone.name=Ice Cream Cone (#morefood)
-item.icecream_strawberry.name=Strawberry Ice Cream (#morefood)
-item.icecream_toffee.name=Toffee Ice Cream (#morefood)
-item.icecream_vanilla.name=Vanilla Ice Cream (#morefood)
+item.ice_bowl.name=アイスクリームのおわん (#morefood)
+item.icecream_banana.name=バナナアイスクリーム (#morefood)
+item.icecream_chocolate.name=チョコレートアイスクリーム (#morefood)
+item.icecream_cone.name=アイスクリームコーン (#morefood)
+item.icecream_strawberry.name=ストロベリーアイスクリーム (#morefood)
+item.icecream_toffee.name=トフィ―アイスクリーム (#morefood)
+item.icecream_vanilla.name=バニラアイスクリーム (#morefood)
 
 # Icecrush
 item.icecrush_apple.name=Apple Ice Crush (#morefood)
