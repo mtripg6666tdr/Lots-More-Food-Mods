@@ -224,14 +224,14 @@ item.bottled_red_wine_0.name=赤ワインボトル(0%) (#morefood)
 item.bottled_white_wine_0.name=白ワインボトル(0%) (#morefood)
 
 # Donut
-item.donut_chocolate.name=Chocolate Donut (#morefood)
-item.donut_coffee.name=Coffee Donut (#morefood)
-item.donut_golden.name=Golden Donut (#morefood)
-item.donut_iced.name=Iced Donut (#morefood)
-item.donut_pink_ice.name=Pink Iced Donut (#morefood)
-item.donut_plain.name=Plain Donut (#morefood)
-item.donut_strawberry.name=Strawberry Donut (#morefood)
-item.donut_toffee.name=Toffee Donut (#morefood)
+item.donut_chocolate.name=チョコレートドーナツ (#morefood)
+item.donut_coffee.name=コーヒードーナツ (#morefood)
+item.donut_golden.name=金のドーナツ (#morefood)
+item.donut_iced.name=アイシングしたドーナツ (#morefood)
+item.donut_pink_ice.name=アイシングしたドーナツ(ピンク) (#morefood)
+item.donut_plain.name=プレーンドーナツ (#morefood)
+item.donut_strawberry.name=ストロベリードーナツ (#morefood)
+item.donut_toffee.name=タフィドーナツ (#morefood)
 
 # Fruit
 item.banana.name=Banana (#morefood)
