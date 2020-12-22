@@ -277,9 +277,9 @@ item.juice_strawberry.name=ストロベリージュース (#morefood)
 item.juice_tomato.name=トマトジュース (#morefood)
 
 # Milkshake
-item.milkshake_banana.name=Banana Milkshake (#morefood)
-item.milkshake_chocolate.name=Chocolate Milkshake (#morefood)
-item.milkshake_strawberry.name=Strawberry Milkshake (#morefood)
+item.milkshake_banana.name=バナナミルクセーキ (#morefood)
+item.milkshake_chocolate.name=チョコレートミルクセーキ (#morefood)
+item.milkshake_strawberry.name=イチゴミルクセーキ (#morefood)
 
 # Pie
 item.pie_apple.name=Apple Pie (#morefood)
