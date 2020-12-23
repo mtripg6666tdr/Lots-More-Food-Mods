@@ -306,12 +306,12 @@ item.smoothie_raspberry.name=ラズベリースムージー (#morefood)
 item.smoothie_strawberry.name=ストロベリースムージー (#morefood)
 
 # Soda
-item.soda_apple.name=Apple Soda (#morefood)
-item.soda_berry.name=Berry Soda (#morefood)
-item.soda_grape.name=Grape Soda (#morefood)
-item.soda_lemon.name=Lemon Soda (#morefood)
-item.soda_orange.name=Orange Soda (#morefood)
-item.soda_strawberry.name=Strawberry Soda (#morefood)
+item.soda_apple.name=リンゴソーダ (#morefood)
+item.soda_berry.name=ベリーソーダ (#morefood)
+item.soda_grape.name=グレープソーダ (#morefood)
+item.soda_lemon.name=レモンソーダ (#morefood)
+item.soda_orange.name=オレンジソーダ (#morefood)
+item.soda_strawberry.name=ストロベリーソーダ (#morefood)
 
 # Vegi
 item.corn_on_cob.name=Corn On The Cob (#morefood)
