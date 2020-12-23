@@ -370,13 +370,13 @@ item.spawn_egg.entity.moreplant:bush_pepper.name=コショウの種 (#morefood)
 item.spawn_egg.entity.exotic_trader.name=エキゾチックトレーダーのスポーンエッグ (#morefood)
 
 # tools
-item.knife_netherite.name=Netherite Knife (#morefood)
-item.knife_diamond.name=Diamond Knife (#morefood)
-item.knife_golden.name=Golden Knife (#morefood)
-item.knife_iron.name=Iron Knife (#morefood)
-item.knife_stone.name=Stone Knife (#morefood)
-item.knife_wooden.name=Wooden Knife (#morefood)
-item.wooden_spoon.name=Wooden Spoon (#morefood)
+item.knife_netherite.name=ネザライトのナイフ (#morefood)
+item.knife_diamond.name=ダイヤのナイフ (#morefood)
+item.knife_golden.name=金のナイフ (#morefood)
+item.knife_iron.name=鉄のナイフ (#morefood)
+item.knife_stone.name=石のナイフ (#morefood)
+item.knife_wooden.name=木のナイフ (#morefood)
+item.wooden_spoon.name=木のスプーン (#morefood)
 
 ##############################################################################
 ##                        How to play More Food                             ##
