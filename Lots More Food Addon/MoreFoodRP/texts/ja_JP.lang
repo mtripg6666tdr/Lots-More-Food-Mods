@@ -298,12 +298,12 @@ item.pie_strawberry.name=ストロベリーパイ (#morefood)
 item.pie_toffee.name=タフィーパイ (#morefood)
 
 # Smoothie
-item.smoothie_banana.name=Banana Smoothie (#morefood)
-item.smoothie_berry.name=Berry Smoothie (#morefood)
-item.smoothie_grape.name=Grape Smoothie (#morefood)
-item.smoothie_mixed_fruit.name=Mixed Fruit Smoothie (#morefood)
-item.smoothie_raspberry.name=Raspberry Smoothie (#morefood)
-item.smoothie_strawberry.name=Strawberry Smoothie (#morefood)
+item.smoothie_banana.name=バナナスムージー (#morefood)
+item.smoothie_berry.name=ベリースムージー (#morefood)
+item.smoothie_grape.name=グレープスムージー (#morefood)
+item.smoothie_mixed_fruit.name=ミックスフルーツスムージー (#morefood)
+item.smoothie_raspberry.name=ラズベリースムージー (#morefood)
+item.smoothie_strawberry.name=ストロベリースムージー (#morefood)
 
 # Soda
 item.soda_apple.name=Apple Soda (#morefood)
