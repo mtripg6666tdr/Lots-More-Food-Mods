@@ -13,7 +13,7 @@ changelog.3=͸+ 生のチキンナゲットと調理されたチキンナゲッ�
 changelog.4=͸+ ピザボックスを削除 (使われていませんでした)
 changelog.5=͸+ その他の新しいアイテム！
 
-entity.exotic_trader.name=エキゾチックなトレーダー
+entity.exotic_trader.name=エキゾチックトレーダー
 entity.wandering_trader.name=More Foodのトレーダー
 
 # compressed blocks
@@ -315,7 +315,7 @@ item.soda_strawberry.name=ストロベリーソーダ (#morefood)
 
 # Vegi
 item.corn_on_cob.name=軸付きトウモロコシ (#morefood)
-item.gherkin.name=ピクルス (#morefood)
+item.gherkin.name=ミニキュウリ (#morefood)
 item.lettuce.name=レタス (#morefood)
 item.onion.name=たまねぎ (#morefood)
 item.pickles.name=ピクルス (#morefood)
@@ -343,31 +343,31 @@ item.starch.name=スターチ (#morefood)
 item.wine_glass.name=ワイングラス (#morefood)
 
 # moreplants
-item.spawn_egg.entity.moreplant:tree_apple.name=Apple Sapling (#morefood)
-item.spawn_egg.entity.moreplant:tree_banana.name=Banana Sapling (#morefood)
-item.spawn_egg.entity.moreplant:tree_lemon.name=Lemon Sapling (#morefood)
-item.spawn_egg.entity.moreplant:tree_olives.name=Olive Sapling (#morefood)
-item.spawn_egg.entity.moreplant:tree_orange.name=Orange Sapling (#morefood)
-item.spawn_egg.entity.moreplant:tree_plum.name=Plum Sapling (#morefood)
-item.spawn_egg.entity.moreplant:tree_coconut.name=Coconut Sapling (#morefood)
+item.spawn_egg.entity.moreplant:tree_apple.name=リンゴの苗木 (#morefood)
+item.spawn_egg.entity.moreplant:tree_banana.name=バナナの苗木 (#morefood)
+item.spawn_egg.entity.moreplant:tree_lemon.name=レモンの苗木 (#morefood)
+item.spawn_egg.entity.moreplant:tree_olives.name=オリーブの苗木 (#morefood)
+item.spawn_egg.entity.moreplant:tree_orange.name=オレンジの苗木 (#morefood)
+item.spawn_egg.entity.moreplant:tree_plum.name=プラムの苗木 (#morefood)
+item.spawn_egg.entity.moreplant:tree_coconut.name=ココナッツの苗木 (#morefood)
 
-item.spawn_egg.entity.moreplant:bush_coffee.name=Coffee Beans (#morefood)
-item.spawn_egg.entity.moreplant:bush_corn.name=Corn (#morefood)
-item.spawn_egg.entity.moreplant:bush_barley.name=Barley Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_gherkin.name=Gherkin Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_grape.name=Grape Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_hops.name=Hops Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_lettuce.name=Lettuce Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_onion.name=Onion Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_raspberry.name=Raspberry Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_rice.name=Rice Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_strawberry.name=Strawberry Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_tea.name=Tea Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_tomato.name=Tomato Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_vanilla.name=Vanilla Seeds (#morefood)
-item.spawn_egg.entity.moreplant:bush_pepper.name=Pepper Seeds (#morefood)
+item.spawn_egg.entity.moreplant:bush_coffee.name=コーヒービーンズ (#morefood)
+item.spawn_egg.entity.moreplant:bush_corn.name=コーン (#morefood)
+item.spawn_egg.entity.moreplant:bush_barley.name=大麦の低木 (#morefood)
+item.spawn_egg.entity.moreplant:bush_gherkin.name=ミニキュウリの種 (#morefood)
+item.spawn_egg.entity.moreplant:bush_grape.name=グレープの種 (#morefood)
+item.spawn_egg.entity.moreplant:bush_hops.name=ホップの種 (#morefood)
+item.spawn_egg.entity.moreplant:bush_lettuce.name=レタスの種 (#morefood)
+item.spawn_egg.entity.moreplant:bush_onion.name=たまねぎの種 (#morefood)
+item.spawn_egg.entity.moreplant:bush_raspberry.name=ラズベリーの種 (#morefood)
+item.spawn_egg.entity.moreplant:bush_rice.name=稲の種 (#morefood)
+item.spawn_egg.entity.moreplant:bush_strawberry.name=イチゴの種 (#morefood)
+item.spawn_egg.entity.moreplant:bush_tea.name=茶の種 (#morefood)
+item.spawn_egg.entity.moreplant:bush_tomato.name=トマトの種 (#morefood)
+item.spawn_egg.entity.moreplant:bush_vanilla.name=バニラの種 (#morefood)
+item.spawn_egg.entity.moreplant:bush_pepper.name=コショウの種 (#morefood)
 
-item.spawn_egg.entity.exotic_trader.name=Exotic Trader Spawn Egg (#morefood)
+item.spawn_egg.entity.exotic_trader.name=エキゾチックトレーナーのスポーンエッグ (#morefood)
 
 # tools
 item.knife_netherite.name=Netherite Knife (#morefood)
