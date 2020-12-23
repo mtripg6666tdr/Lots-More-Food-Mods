@@ -367,7 +367,7 @@ item.spawn_egg.entity.moreplant:bush_tomato.name=トマトの種 (#morefood)
 item.spawn_egg.entity.moreplant:bush_vanilla.name=バニラの種 (#morefood)
 item.spawn_egg.entity.moreplant:bush_pepper.name=コショウの種 (#morefood)
 
-item.spawn_egg.entity.exotic_trader.name=エキゾチックトレーナーのスポーンエッグ (#morefood)
+item.spawn_egg.entity.exotic_trader.name=エキゾチックトレーダーのスポーンエッグ (#morefood)
 
 # tools
 item.knife_netherite.name=Netherite Knife (#morefood)
