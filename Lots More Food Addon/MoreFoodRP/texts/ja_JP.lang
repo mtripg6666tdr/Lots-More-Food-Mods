@@ -314,11 +314,11 @@ item.soda_orange.name=オレンジソーダ (#morefood)
 item.soda_strawberry.name=ストロベリーソーダ (#morefood)
 
 # Vegi
-item.corn_on_cob.name=Corn On The Cob (#morefood)
-item.gherkin.name=Gherkin (#morefood)
-item.lettuce.name=Lettuce (#morefood)
-item.onion.name=Onion (#morefood)
-item.pickles.name=Pickles (#morefood)
+item.corn_on_cob.name=軸付きトウモロコシ (#morefood)
+item.gherkin.name=ピクルス (#morefood)
+item.lettuce.name=レタス (#morefood)
+item.onion.name=たまねぎ (#morefood)
+item.pickles.name=ピクルス (#morefood)
 
 # Items
 item.sub_wrapper.name=Sub Wrapper (#morefood)
