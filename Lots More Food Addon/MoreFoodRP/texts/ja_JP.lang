@@ -1,8 +1,8 @@
 #############################################################################
-#		MoreFood Addon by Legopitstop			                            #
+#		      MoreFood Addon by Legopitstop			                        #
+#             Translator: mtripg6666tdr                                     #
 #############################################################################
-# Note: Feel free to use this resource to create your own addon, but you must keep the below line.
-# Credit: Thanks to Legopitstop for creating this useful resource. https://legopitstop.weebly.com/media.html
+# https://gist.github.com/mtripg6666tdr/748b6f2776460f5596bfd4ae0d17fde3
 
 upd.ch=changelog
 upd.version= §ev1.1.5 - pre2
@@ -463,100 +463,4 @@ item.morefood:brown_candy=ブラウンのキャンディ
 item.morefood:cyan_candy=シアンのキャンディ
 item.morefood:gray_candy=グレーのキャンディ
 item.morefood:green_candy=緑のキャンディ
-item.morefood:light_blue_candy=薄い青のキャンディ
-item.morefood:light_gray_candy=薄いグレーのキャンディ
-item.morefood:lime_candy=ライムのキャンディ
-item.morefood:magenta_candy=マゼンタのキャンディ
-item.morefood:orange_candy=オレンジのキャンディ
-item.morefood:pink_candy=ピンクのキャンディ
-item.morefood:purple_candy=紫のキャンディ
-item.morefood:red_candy=赤のキャンディ
-item.morefood:white_candy=白のキャンディ
-item.morefood:yellow_candy=黄のキャンディ
-
-item.morefood:candy_corn=キャンディコーン
-item.morefood:candy_corn_bowl=キャンディコーンのボール
-item.morefood:cooked_pumpkin_seeds=調理したカボチャの種
-item.morefood:cooked_salted_pumpkin_seeds=調理した塩漬けのカボチャの種
-item.morefood:empty_large_pumpkin_pale=空の大きなパンプキンペール
-item.morefood:large_pumpkin_pale1=大きなパンプキンペール
-item.morefood:large_pumpkin_pale2=大きなパンプキンペール
-item.morefood:large_pumpkin_pale3=大きなパンプキンペール
-item.morefood:large_pumpkin_pale4=大きなパンプキンペール
-item.morefood:large_pumpkin_pale5=いっぱいの大きなパンプキンペール
-item.morefood:empty_small_pumpkin_pale=空の小さなパンプキンペール
-item.morefood:small_pumpkin_pale1=小さなパンプキンペール
-item.morefood:small_pumpkin_pale2=小さなパンプキンペール
-item.morefood:small_pumpkin_pale3=いっぱいの小さなパンプキンペール
-item.morefood:ghast_cookie=ガストクッキー
-
-# Invalid Block Items
-tile.morefood:barley_crop.name=§4無効なブロックアイテム
-tile.morefood:corn_crop.name=§4無効なブロックアイテム
-tile.morefood:hops_crop.name=§4無効なブロックアイテム
-tile.morefood:lettuce_crop.name=§4無効なブロックアイテム
-tile.morefood:onion_crop.name=§4無効なブロックアイテム
-tile.morefood:rice_crop.name=§4無効なブロックアイテム
-tile.morefood:coffee_bush.name=§4無効なブロックアイテム
-tile.morefood:gherkin_bush.name=§4無効なブロックアイテム
-tile.morefood:grape_bush.name=§4無効なブロックアイテム
-tile.morefood:pepper_bush.name=§4無効なブロックアイテム
-tile.morefood:raspberry_bush.name=§4無効なブロックアイテム
-tile.morefood:strawberry_bush.name=§4無効なブロックアイテム
-tile.morefood:tea_bush.name=§4無効なブロックアイテム
-tile.morefood:tomato_bush.name=§4無効なブロックアイテム
-tile.morefood:vanilla_bush.name=§4無効なブロックアイテム
-tile.morefood:lemon_sapling_block.name=§4無効なブロックアイテム
-tile.morefood:olive_sapling_block.name=§4無効なブロックアイテム
-tile.morefood:orange_sapling_block.name=§4無効なブロックアイテム
-tile.morefood:plum_sapling_block.name=§4無効なブロックアイテム
-tile.morefood:apple_sapling_block.name=§4無効なブロックアイテム
-tile.morefood:banana_sapling_block.name=§4無効なブロックアイテム
-tile.morefood:palm_sapling_block.name=§4無効なブロックアイテム
-
-tile.morefood:apple_hanging_fruit.name=§4無効なブロックアイテム
-tile.morefood:banana_hanging_fruit.name=§4無効なブロックアイテム
-tile.morefood:orange_hanging_fruit.name=§4無効なブロックアイテム
-tile.morefood:plum_hanging_fruit.name=§4無効なブロックアイテム
-tile.morefood:olives_hanging_fruit.name=§4無効なブロックアイテム
-tile.morefood:lemon_hanging_fruit.name=§4無効なブロックアイテム
-tile.morefood:hanging_coconut.name=§4無効なブロックアイテム
-
-# Legacy Block Items
-tile.morefood:barley_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:corn_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:hops_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:lettuce_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:onion_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:rice_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:coffee_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:gherkin_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:grape_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:pepper_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:raspberry_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:strawberry_block.name=§Legacy 4無効なブロックアイテム
-tile.morefood:tea_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:tomato_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:vanilla_block.name=§4Legacy 無効なブロックアイテム
-tile.morefood:bush_barley.name=レガシーな大麦 (#morefood)
-tile.morefood:bush_coffee.name=レガシーなコーヒー (#morefood)
-tile.morefood:bush_corn.name=レガシーなコーン (#morefood)
-tile.morefood:bush_gherkin.name=レガシーなミニキュウリ (#morefood)
-tile.morefood:bush_grape.name=レガシーなグレープ (#morefood)
-tile.morefood:bush_hops.name=レガシーなホップ (#morefood)
-tile.morefood:bush_lettuce.name=レガシーなレタス (#morefood)
-tile.morefood:bush_onion.name=レガシーなたまねぎ (#morefood)
-tile.morefood:bush_raspberry.name=レガシーなラズベリー (#morefood)
-tile.morefood:bush_rice.name=レガシーな稲 (#morefood)
-tile.morefood:bush_strawberry.name=レガシーなイチゴ (#morefood)
-tile.morefood:bush_tea.name=レガシーな茶 (#morefood)
-tile.morefood:bush_tomato.name=レガシーなトマト (#morefood)
-tile.morefood:bush_vanilla.name=レガシーなバニラ (#morefood)
-tile.morefood:bush_pepper.name=レガシーなコショウ (#morefood)
-tile.morefood:tree_apple.name=レガシーなリンゴの木の葉 (#morefood)
-tile.morefood:tree_banana.name=レガシーなバナナの木の葉 (#morefood)
-tile.morefood:tree_coconut.name=レガシーなココナッツの木の葉 (#morefood)
-tile.morefood:tree_lemon.name=レガシーなレモンの葉 (#morefood)
-tile.morefood:tree_olive.name=レガシーなオリーブの木の葉 (#morefood)
-tile.morefood:tree_orange.name=レガシーなオレンジの木の葉 (#morefood)
-tile.morefood:tree_plum.name=レガシーなプラムの木の葉 (#morefood)
+item.morefood:light_blue
