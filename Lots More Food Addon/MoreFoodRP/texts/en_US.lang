@@ -198,10 +198,12 @@ item.morefood:bottled_beer_50=Beer Bottle 50% (#morefood)
 item.morefood:bottled_cider_50=Cider Bottle 50% (#morefood)
 item.morefood:bottled_red_wine_50=Red Wine Bottle 50% (#morefood)
 item.morefood:bottled_white_wine_50=White Wine Bottle 50% (#morefood)
+
 item.morefood:bottled_beer_25=Beer Bottle 25% (#morefood)
 item.morefood:bottled_cider_25=Cider Bottle 25% (#morefood)
 item.morefood:bottled_red_wine_25=Red Wine Bottle 25% (#morefood)
 item.morefood:bottled_white_wine_25=White Wine Bottle 25% (#morefood)
+
 item.morefood:bottled_beer_0=Beer Bottle 0% (#morefood)
 item.morefood:bottled_cider_0=Cider Bottle 0% (#morefood)
 item.morefood:bottled_red_wine_0=Red Wine Bottle 0% (#morefood)
