@@ -1,47 +1,48 @@
 ﻿#############################################################################
-#		MoreFood Addon by Legopitstop			                            #
+#		      MoreFood Addon by Legopitstop			                        #
+#                 default langugage                                         #
 #############################################################################
-# Note: Feel free to use this resource to create your own addon, but you must keep the below line.
-# Credit: Thanks to Legopitstop for creating this useful resource. https://legopitstop.weebly.com/media.html
-
 upd.ch=changelog
-upd.version= §ev1.1.5 - pre2
-changelog.0=͸+ Added pepper bush texture.
-changelog.1=͸+ Fixed MF010​
-changelog.2=͸+ Added creative hunger item, (creative only item)
-changelog.3=͸+ Added halloween content
-changelog.4=͸+ Changed test features settings to Holiday features.
-changelog.5=͸+ Saplings will grow into tree.
-
-# compressed blocks
-tile.morefood:block_apple.name=Apple Block (#morefood)
-tile.morefood:block_banana.name=Banana Block (#morefood)
-tile.morefood:block_golden_apple.name=Golden Apple Block (#morefood)
-tile.morefood:block_grape.name=Grape Block (#morefood)
-tile.morefood:block_hops.name=Hops Block (#morefood)
-tile.morefood:block_lemon.name=Lemon Block (#morefood)
-tile.morefood:block_olives.name=Olives Block (#morefood)
-tile.morefood:block_orange.name=Orange Block (#morefood)
-tile.morefood:block_plum.name=Plum Block (#morefood)
-tile.morefood:block_raspberry.name=Raspberry Block (#morefood)
-tile.morefood:block_strawberry.name=Strawberry Block (#morefood)
-tile.morefood:block_baked_potato.name=Baked Potato Block (#morefood)
-tile.morefood:block_carrots.name=Carrots Block (#morefood)
-tile.morefood:block_potato.name=Potato Block (#morefood)
-tile.morefood:block_cookie.name=Cookie Block (#morefood)
-tile.morefood:block_dark_chocolate.name=Dark Chocolate Block (#morefood)
-tile.morefood:block_milk_chocolate.name=Milk Chocolate Block (#morefood)
-tile.morefood:block_white_chocolate.name=White Chocolate Block (#morefood)
-tile.morefood:block_cooked_beef.name=Cooked Beef Block (#morefood)
-tile.morefood:block_cooked_chicken.name=Cooked Chicken Block (#morefood)
-tile.morefood:block_cooked_mutton.name=Cooked Mutton Block (#morefood)
-tile.morefood:block_cooked_rabbit.name=Cooked Rabbit Block (#morefood)
-tile.morefood:block_cooked_squid.name=Cooked Squid Block (#morefood)
-tile.morefood:block_raw_beef.name=Raw Beef Block (#morefood)
-tile.morefood:block_raw_chicken.name=Raw Chicken Block (#morefood)
-tile.morefood:block_raw_mutton.name=Raw Mutton Block (#morefood)
-tile.morefood:block_raw_rabbit.name=Raw Rabbit Block (#morefood)
-tile.morefood:block_raw_squid.name=Raw Squid Block (#morefood)
+upd.version= §ev1.1.6 - dev
+changelog.0=͸+ Rewritten all food blocks.
+changelog.1=͸+ All food blocks can be broken by pistons
+changelog.2=͸
+changelog.3=͸
+changelog.4=͸
+changelog.5=͸
+# Item Groups
+itemGroup.name.knife=Knifes
+# Compressed Blocks
+tile.morefood:apple_block.name=Apple Block (#morefood)
+tile.morefood:banana_block.name=Banana Block (#morefood)
+tile.morefood:golden_apple_block.name=Golden Apple Block (#morefood)
+tile.morefood:grape_block.name=Grape Block (#morefood)
+tile.morefood:hops_block.name=Hops Block (#morefood)
+tile.morefood:lemon_block.name=Lemon Block (#morefood)
+tile.morefood:olive_block.name=Olive Block (#morefood)
+tile.morefood:orange_block.name=Orange Block (#morefood)
+tile.morefood:plum_block.name=Plum Block (#morefood)
+tile.morefood:raspberry_block.name=Raspberry Block (#morefood)
+tile.morefood:strawberry_block.name=Strawberry Block (#morefood)
+tile.morefood:baked_potato_block.name=Baked Potato Block (#morefood)
+tile.morefood:carrot_block.name=Carrots Block (#morefood)
+tile.morefood:potato_block.name=Potato Block (#morefood)
+tile.morefood:cookie_block.name=Cookie Block (#morefood)
+tile.morefood:dark_chocolate_block.name=Dark Chocolate Block (#morefood)
+tile.morefood:milk_chocolate_block.name=Milk Chocolate Block (#morefood)
+tile.morefood:white_chocolate_block.name=White Chocolate Block (#morefood)
+tile.morefood:cooked_beef_block.name=Cooked Beef Block (#morefood)
+tile.morefood:cooked_chicken_block.name=Cooked Chicken Block (#morefood)
+tile.morefood:cooked_mutton_block.name=Cooked Mutton Block (#morefood)
+tile.morefood:cooked_rabbit_block.name=Cooked Rabbit Block (#morefood)
+tile.morefood:cooked_squid_block.name=Cooked Squid Block (#morefood)
+tile.morefood:beef_block.name=Beef Block (#morefood)
+tile.morefood:chicken_block.name=Chicken Block (#morefood)
+tile.morefood:mutton_block.name=Mutton Block (#morefood)
+tile.morefood:rabbit_block.name=Rabbit Block (#morefood)
+tile.morefood:squid_block.name=Squid Block (#morefood)
+tile.morefood:tomato_block.name=Tomato Block (#morefood)
+# May remove?
 tile.morefood:apple_leaves.name=Apple Leaves (#morefood)
 tile.morefood:banana_leaves.name=Banana Leaves (#morefood)
 tile.morefood:coconut_leaves.name=Coconut Leaves (#morefood)
@@ -144,11 +145,11 @@ item.morefood:pizza_slice=Pizza Slice (#morefood)
 item.morefood:popcorn=Popcorn (#morefood)
 item.morefood:popcorn_bucket=Popcorn Bucket (#morefood)
 item.morefood:ramen_noodles=Ramen Noodles (#morefood)
-item.morefood:raw_hamburger_patty=Raw Hamburger Patty (#morefood)
-item.morefood:raw_sausage=Raw Sausage (#morefood)
-item.morefood:raw_squid=Raw Squid (#morefood)
-item.morefood:raw_veganburger_patty=Raw Veganburger Patty (#morefood)
-item.morefood:raw_wedges=Raw Wedges (#morefood)
+item.morefood:raw_hamburger_patty=Hamburger Patty (#morefood)
+item.morefood:raw_sausage=Sausage (#morefood)
+item.morefood:raw_squid=Squid (#morefood)
+item.morefood:raw_veganburger_patty=Veganburger Patty (#morefood)
+item.morefood:raw_wedges=Wedges (#morefood)
 item.morefood:rice=Rice (#morefood)
 item.morefood:rice_pudding=Rice Pudding (#morefood)
 item.morefood:round_cheese=Round Cheese (#morefood)
@@ -192,6 +193,7 @@ item.morefood:bottled_beer_75=Beer Bottle 75% (#morefood)
 item.morefood:bottled_cider_75=Cider Bottle 75% (#morefood)
 item.morefood:bottled_red_wine_75=Red Wine Bottle 75% (#morefood)
 item.morefood:bottled_white_wine_75=White Wine Bottle 75% (#morefood)
+
 item.morefood:bottled_beer_50=Beer Bottle 50% (#morefood)
 item.morefood:bottled_cider_50=Cider Bottle 50% (#morefood)
 item.morefood:bottled_red_wine_50=Red Wine Bottle 50% (#morefood)
@@ -295,7 +297,7 @@ item.morefood:soda_lemon=Lemon Soda (#morefood)
 item.morefood:soda_orange=Orange Soda (#morefood)
 item.morefood:soda_strawberry=Strawberry Soda (#morefood)
 
-# Vegi
+# Vegis
 item.morefood:corn_on_cob=Corn On The Cob (#morefood)
 item.morefood:gherkin=Gherkin (#morefood)
 item.morefood:lettuce=Lettuce (#morefood)
@@ -325,7 +327,7 @@ item.morefood:starch=Starch (#morefood)
 item.morefood:wine_glass=Wine Glass (#morefood)
 item.morefood:coconut=Coconut (#morefood)
 
-# moreplants
+# Plants
 item.morefood:apple_sapling=Apple Sapling (#morefood)
 item.morefood:banana_sapling=Banana Sapling (#morefood)
 item.morefood:lemon_sapling=Lemon Sapling (#morefood)
@@ -453,10 +455,9 @@ howtoplay.nutmf.text.1=Some foods have special effects. below are some items tha
 
 howtoplay.nutmf.header.2=FOOD NUTRUTION
 howtoplay.nutmf.text.2=:shank::shank:
-
 #######################
 
-# Holiday
+# Holiday Feature Foods
 item.morefood:black_candy=Black Candy
 item.morefood:blue_candy=Blue Candy
 item.morefood:brown_candy=Brown Candy
@@ -489,74 +490,3 @@ item.morefood:small_pumpkin_pale1=Small Pumpkin Pale
 item.morefood:small_pumpkin_pale2=Small Pumpkin Pale
 item.morefood:small_pumpkin_pale3=Small Pumpkin Pale Full
 item.morefood:ghast_cookie=Ghast Cookie
-
-# Invalid Block Items
-tile.morefood:barley_crop.name=§4Invalid Block Item
-tile.morefood:corn_crop.name=§4Invalid Block Item
-tile.morefood:hops_crop.name=§4Invalid Block Item
-tile.morefood:lettuce_crop.name=§4Invalid Block Item
-tile.morefood:onion_crop.name=§4Invalid Block Item
-tile.morefood:rice_crop.name=§4Invalid Block Item
-tile.morefood:coffee_bush.name=§4Invalid Block Item
-tile.morefood:gherkin_bush.name=§4Invalid Block Item
-tile.morefood:grape_bush.name=§4Invalid Block Item
-tile.morefood:pepper_bush.name=§4Invalid Block Item
-tile.morefood:raspberry_bush.name=§4Invalid Block Item
-tile.morefood:strawberry_bush.name=§4Invalid Block Item
-tile.morefood:tea_bush.name=§4Invalid Block Item
-tile.morefood:tomato_bush.name=§4Invalid Block Item
-tile.morefood:vanilla_bush.name=§4Invalid Block Item
-tile.morefood:lemon_sapling_block.name=§4Invalid Block Item
-tile.morefood:olive_sapling_block.name=§4Invalid Block Item
-tile.morefood:orange_sapling_block.name=§4Invalid Block Item
-tile.morefood:plum_sapling_block.name=§4Invalid Block Item
-tile.morefood:apple_sapling_block.name=§4Invalid Block Item
-tile.morefood:banana_sapling_block.name=§4Invalid Block Item
-tile.morefood:palm_sapling_block.name=§4Invalid Block Item
-
-tile.morefood:apple_hanging_fruit.name=§4Invalid Block Item
-tile.morefood:banana_hanging_fruit.name=§4Invalid Block Item
-tile.morefood:orange_hanging_fruit.name=§4Invalid Block Item
-tile.morefood:plum_hanging_fruit.name=§4Invalid Block Item
-tile.morefood:olives_hanging_fruit.name=§4Invalid Block Item
-tile.morefood:lemon_hanging_fruit.name=§4Invalid Block Item
-tile.morefood:hanging_coconut.name=§4Invalid Block Item
-
-# Legacy Block Items
-tile.morefood:barley_block.name=§4Legacy Invalid Block Item
-tile.morefood:corn_block.name=§4Legacy Invalid Block Item
-tile.morefood:hops_block.name=§4Legacy Invalid Block Item
-tile.morefood:lettuce_block.name=§4Legacy Invalid Block Item
-tile.morefood:onion_block.name=§4Legacy Invalid Block Item
-tile.morefood:rice_block.name=§4Legacy Invalid Block Item
-tile.morefood:coffee_block.name=§4Legacy Invalid Block Item
-tile.morefood:gherkin_block.name=§4Legacy Invalid Block Item
-tile.morefood:grape_block.name=§4Legacy Invalid Block Item
-tile.morefood:pepper_block.name=§4Legacy Invalid Block Item
-tile.morefood:raspberry_block.name=§4Legacy Invalid Block Item
-tile.morefood:strawberry_block.name=§Legacy 4Invalid Block Item
-tile.morefood:tea_block.name=§4Legacy Invalid Block Item
-tile.morefood:tomato_block.name=§4Legacy Invalid Block Item
-tile.morefood:vanilla_block.name=§4Legacy Invalid Block Item
-tile.morefood:bush_barley.name=Legacy Barley Bush
-tile.morefood:bush_coffee.name=Legacy Coffee Bush
-tile.morefood:bush_corn.name=Legacy Corn Bush
-tile.morefood:bush_gherkin.name=Legacy Gherkin Bush
-tile.morefood:bush_grape.name=Legacy Grape Bush
-tile.morefood:bush_hops.name=Legacy Hops Bush
-tile.morefood:bush_lettuce.name=Legacy Lettuce Bush
-tile.morefood:bush_onion.name=Legacy Onion Bush
-tile.morefood:bush_raspberry.name=Legacy Raspberry Bush
-tile.morefood:bush_rice.name=Legacy Rice Bush
-tile.morefood:bush_strawberry.name=Legacy Strawberry Bush
-tile.morefood:bush_tea.name=Legacy Tea Bush
-tile.morefood:bush_tomato.name=Legacy Tomato Bush
-tile.morefood:bush_vanilla.name=Legacy Vanilla Bush
-tile.morefood:bush_pepper.name=Legacy Pepper Bush
-tile.morefood:tree_apple.name=Legacy Apple Tree Leaves
-tile.morefood:tree_banana.name=Legacy Banana Tree Leaves
-tile.morefood:tree_coconut.name=Legacy Coconut Tree Leaves
-tile.morefood:tree_lemon.name=Legacy Lemon Tree Leaves
-tile.morefood:tree_olive.name=Legacy Olive Tree Leaves
-tile.morefood:tree_orange.name=Legacy Orange Tree Leaves
-tile.morefood:tree_plum.name=Legacy Plum Tree Leaves
