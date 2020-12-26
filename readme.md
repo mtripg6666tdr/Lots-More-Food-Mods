@@ -15,7 +15,7 @@ This app will do below steps.
 2. Collect data: "'an example item' in the original lang is equals to '例のアイテム' in a translated lang"
 3. Export the data as json such as below
 ```json
-[{"orig":"an example item","equals","例のアイテム"}]
+[{"orig":"an example item","equals":"例のアイテム"}]
 ```
 4. Translation related to updating become more easy by using above translation datasets, 
    because you can translate from the current version's lang file directly and quickly by using collected reusable datasets.
